@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pravin, a Business Development Executive at Addmatrix.
+- 👋 Hi, I’m Pravin, a Business Analyst at Addmatrix.
 - 👀 I’m interested in uncovering insights from data and driving business strategies.
 - 🌱 I’m currently learning advanced analytics techniques and machine learning.
 - 💞️ I’m looking to collaborate on projects related to data visualization and market analysis.
