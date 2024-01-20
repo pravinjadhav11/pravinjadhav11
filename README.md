@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pravin, a Business Analyst at Addmatrix.
 - 👀 I’m interested in uncovering insights from data and driving business strategies.
-- 🌱 I’m currently learning advanced analytics techniques and machine learning.
+- 🌱 I’m currently learning advanced analytics techniques.
 - 💞️ I’m looking to collaborate on projects related to data visualization and market analysis.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pravinjadhav11/)
 - 😄 Pronouns: He/Him
