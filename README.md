@@ -1,23 +1,27 @@
-- 👋 Hi, I’m Pravin, a Business Analyst at Addmatrix.
-- 👀 I’m interested in uncovering insights from data and driving business strategies.
-- 🌱 I’m currently learning advanced analytics techniques.
-- 💞️ I’m looking to collaborate on projects related to data visualization and market analysis.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pravinjadhav11/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I bring a unique blend of skills with experience running an e-commerce business, gaining valuable insights.
-  
-### Tools and Technologies I Work With:
-- Excel
-- Tableau
-- Python
-- SQL
-- PowerPoint
 
-### My Functional Areas:
-- Data Visualization
-- Market Analysis
-- Dashboarding
-- Sales Analytics
+    👋 Hi, I'm Pravin, a UI/UX Designer skilled in frontend development.
+    👀 I'm passionate about crafting beautiful, intuitive interfaces that enhance user experiences.
+    🌱 I'm currently expanding my design knowledge and refining my frontend coding skills.
+    💞️ I'm seeking projects focused on user-centered design and seamless web development.
+    📫 How to reach me: LinkedIn: https://www.linkedin.com/in/pravinjadhav11/
+    😄 Pronouns: He/Him
+    ⚡ Fun fact: My e-commerce background gives me a keen understanding of user behavior within the sales context.
 
-Excited about the intersection of business and data, I thrive on turning numbers into actionable insights. Let's connect and explore the world of analytics together!
+Tools and Technologies I Work With:
 
+    Figma 
+    Adobe Suite
+    HTML
+    CSS
+    JavaScript (framework like React/Angular/Vue.js)
+    Version Control Systems (Git)
+
+My Functional Areas:
+
+    User Interface (UI) Design
+    User Experience (UX) Design
+    Wireframing & Prototyping
+    Responsive Web Design
+    Frontend Development
+
+Driven by creating exceptional user experiences, I  combine design principles with technical know-how.  Let's collaborate to build remarkable web products!
